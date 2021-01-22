@@ -16,6 +16,10 @@
 3. [个人博客@BWH_Steven](https://www.ideal-20.cn)
 4. 微信公众号@理想二旬不止 🔥️
 
+## 🔥️ My Project
+
+1. [Java-Ideal-Interview](https://github.com/ideal-20/Java-Ideal-Interview) 专注 Java 后端面试题 + 解析 + 重点知识详解 + 精选文章的开源项目，希望它能伴随你我一直进步
+
 ## 📞 Contact me
 
 有任何问题，可以使用邮箱先沟通，邮箱每日都会查看。
