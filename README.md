@@ -13,8 +13,7 @@
 
 1. [掘金@BWH_Steven](https://juejin.cn/user/1591748568815655)
 2. [知乎@BWH_Steven](https://www.zhihu.com/people/zi-shen-si)
-3. [个人博客@BWH_Steven](https://www.ideal-20.cn)
-4. 微信公众号@理想二旬不止 🔥️
+3. [技术文章主页@二境志](https://www.yuque.com/ideal-20) 🔥️ 
 
 ## 🔥️ My Project
 
