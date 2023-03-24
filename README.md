@@ -9,8 +9,8 @@
 ## 👉 My Article
 
 1. [技术博客@二境志](https://www.yuque.com/ideal-20) 🔥️ 
-2. [掘金@BWH_Steven](https://juejin.cn/user/1591748568815655)
-3. [知乎@BWH_Steven](https://www.zhihu.com/people/zi-shen-si)
+2. [掘金@二境志n](https://juejin.cn/user/1591748568815655)
+3. [知乎@二境志n](https://www.zhihu.com/people/zi-shen-si)
 
 ## 🔥️ My Project
 
